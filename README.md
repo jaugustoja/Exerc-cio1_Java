@@ -1,2 +1,2 @@
 # Exercício Java
-Repositório com meu primeiro exercício Java do Bootcamp JAVA da GFT na DIO.
+Meu primeiro exercício Java do Bootcamp JAVA da GFT na DIO.
